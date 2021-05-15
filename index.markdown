@@ -1,0 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+profile_picture:
+  src: /images/me.jpg
+  alt: website picture
+  
+---
+
+# Welcome!
+
+I am a first year PhD student in ORIE at Cornell. I completed my undergraduate degree in math/stats/OR at UNC Chapel Hill. I am interested in decision making under uncertainty. I am fortunate to be working with [Shane Henderson](https://people.orie.cornell.edu/shane/) on simulation optimization this summer.
+
+Whether your an ambitious high-schooler looking for advice or someone looking to brainstorm or collaborate on a project, please feel free to contact me using the information below.
