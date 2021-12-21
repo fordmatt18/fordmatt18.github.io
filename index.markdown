@@ -11,6 +11,6 @@ profile_picture:
 
 # Welcome!
 
-I am a first year PhD student in Operations Research at Cornell and interested in decision making under uncertainty. I completed my undergraduate studies in math/stats/OR at UNC Chapel Hill. I am fortunate to be working with [Shane Henderson](https://people.orie.cornell.edu/shane/) on simulation optimization this summer.
+I am a second year PhD student in Operations Research at Cornell and am interested in decision making under uncertainty. I completed my undergraduate studies in math/stats/OR at UNC Chapel Hill. I am fortunate to be working with [Shane Henderson](https://people.orie.cornell.edu/shane/) on simulation optimization.
 
 Whether you're an ambitious high-schooler looking for advice or someone looking to brainstorm or collaborate on a project, please feel free to contact me using the information below.
